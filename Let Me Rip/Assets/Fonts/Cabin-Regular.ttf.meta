@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bfb0f56ba7edc2e4fb2283384622bd0c
+timeCreated: 1489461728
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cabin
+  fontNames:
+  - Cabin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0b6f88a1bd58da45843cdf24e273fa2, type: 3}
+  - {fileID: 12800000, guid: 626fedbe653a25c42adb3f547707beb3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
