@@ -460,8 +460,13 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudServicesEnabled:
+    Build: 0
+    Collab: 1
+    ErrorHub: 0
+    Hub: 0
+    UNet: 1
+  cloudProjectId: 6d538b97-8208-4ce5-a425-af0164147183
+  projectName: Let Me Rip
+  organizationId: comando2
   cloudEnabled: 0

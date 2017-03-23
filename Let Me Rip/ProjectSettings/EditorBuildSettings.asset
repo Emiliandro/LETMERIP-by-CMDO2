@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/000 - Logos.unity
   - enabled: 1
-    path: Assets/Scenes/Loading.unity
+    path: Assets/Scenes/001 - Menu.unity
+  - enabled: 1
+    path: Assets/Scenes/002 - Select.unity
